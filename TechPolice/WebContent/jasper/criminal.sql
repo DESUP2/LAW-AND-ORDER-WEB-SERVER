@@ -1,0 +1,1 @@
+select * from SAKANSHA.CRIME 
