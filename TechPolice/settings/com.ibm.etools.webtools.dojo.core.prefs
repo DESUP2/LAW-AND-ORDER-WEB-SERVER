@@ -1,0 +1,7 @@
+#Sat Apr 06 11:53:01 IST 2013
+dojo-root=/TechPolice/WebContent/dojo
+dojo-bootstrap-js=dojo/dojo.js
+dojo-css=dojo/resources/dojo.css
+eclipse.preferences.version=1
+dojo-dijit-css=dijit/themes/dijit.css
+dojo-theme-css=dijit/themes/tundra/tundra.css
